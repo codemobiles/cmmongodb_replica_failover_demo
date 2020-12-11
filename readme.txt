@@ -1,4 +1,4 @@
-mkdir demo
+mkdir cm_replica_demo
 cd demo
 mkdir r1,r2,r3
 
