@@ -1,5 +1,5 @@
 mkdir cm_replica_demo
-cd demo
+cd cm_replica_demo
 mkdir r1,r2,r3
 
 mongod --replSet cmpos --logpath "r1.log" --dbpath ./r1 --port 27018 &
